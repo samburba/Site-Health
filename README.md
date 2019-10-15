@@ -4,5 +4,5 @@ Use to check the health of a website. Checks the response status and response's 
 ## Compile and Run
 ```
 go build health.go
-./health.exe <website_uri> [-c <count>]
+./health.exe <uri> [-c <count> | -r | -g]
 ```
