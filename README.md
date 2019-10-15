@@ -1,4 +1,4 @@
-# site_health
+# Site-Health
 Use to check the health of a website. Checks the response status and response's duration.
 
 ## Compile and Run
